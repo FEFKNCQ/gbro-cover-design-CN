@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/2835d14a9a02
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/gbro-cover-design/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/gbro-cover-design-CN/releases) 下载。
 
 
 # gbro-cover-design
